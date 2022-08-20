@@ -20,4 +20,4 @@ N/A
 
 MIT License
 
-![alt-text gif of website password generator] (Password-Generator.gif)
+![alt-text here](gif.gif)
