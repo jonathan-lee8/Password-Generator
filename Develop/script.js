@@ -1,6 +1,6 @@
 // Assignment code here
 // Setting up our variables for each password condition in an array and then use method split for some in order to avoid typing each individual letter in quotes
-// logged each variable to confirm each case is present in the arrays
+// logged each variable to confirm each case is present in arrays
 var specialChars = ["!", "\u0022", "#", "$", "%", "&", "'", "(", ")", "*", "+", ",", "-", ".", "/", ":", ";", "<", "=", ">", "?", "@", "[", "\u005C", "]", "^", "_", "`", "{", "|", "}", "~"];
 console.log(specialChars);
 var numChars = "0123456789".split("");
