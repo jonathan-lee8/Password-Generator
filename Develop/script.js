@@ -10,12 +10,6 @@ console.log(abcLower);
 var abcUpper = "abcdefghijklmnopqrstuvwxyz".toUpperCase().split("");
 console.log(abcUpper);
 
-var userPW = "";
-var userUpper;
-var userLower;
-var userNumb;
-var userSpec;
-
 // defining function to generate our password by using prompts, confirms, and alerts dependent on the user choice
 // if user fails to follow criteria, will be taken back by the return to restart, if not, will continue to confirm
 function generatePassword() {
