@@ -6,7 +6,7 @@ Here we have created a random password generator functions while the webpage and
 
 Visit repo Password-Generator from GitHub and clone the repo using either SSH or HTTPs. Once cloned to desired folder, user has access to updates and full visibility to all code. User can also follow link here as well:
 
-
+https://github.com/jonathan-lee8/Password-Generator
 
 ## Usage
 
@@ -19,3 +19,5 @@ N/A
 ## License
 
 MIT License
+
+![alt-text gif of website password generator] (Password-Generator.gif)
